@@ -44,6 +44,7 @@ public class FirstClss {
 
         FirstClss firstClss = new FirstClss();
         firstClss.setAge(18);
+        firstClss.setName("zhangsan");
 
     }
 }
