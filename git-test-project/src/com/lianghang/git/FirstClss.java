@@ -7,6 +7,15 @@ package com.lianghang.git;
 public class FirstClss {
     private int age;
     private String name;
+    private int sex;
+
+    public int getSex() {
+        return sex;
+    }
+
+    public void setSex(int sex) {
+        this.sex = sex;
+    }
 
     public int getAge() {
         return age;
