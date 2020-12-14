@@ -42,5 +42,8 @@ public class FirstClss {
         System.out.println("Hello Git");
         System.out.println("Hello Git");
 
+        FirstClss firstClss = new FirstClss();
+        firstClss.setAge(18);
+
     }
 }
