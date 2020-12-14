@@ -46,5 +46,9 @@ public class FirstClss {
         firstClss.setName("张三");
         firstClss.setAge(18);
 
+        FirstClss firstClss = new FirstClss();
+        firstClss.setAge(18);
+        firstClss.setName("zhangsan");
+
     }
 }
