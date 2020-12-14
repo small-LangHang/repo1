@@ -41,6 +41,10 @@ public class FirstClss {
         System.out.println("Hello Git");
         System.out.println("Hello Git");
         System.out.println("Hello Git");
+        FirstClss firstClss = new FirstClss();
+        firstClss.setSex(1);
+        firstClss.setName("张三");
+        firstClss.setAge(18);
 
     }
 }
